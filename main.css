@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+.google-img{
+    background-color: red;
+    width: 300px;
+    height: 550px;
+}
+.google-img img{
+    height: 500px;
+  padding: 50px;
+  margin-top: -25px;
+ /*  width: 420px; */
+ margin-left: -30px;
+}
+.seevice-conteiner{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.right-site{
+ align-items: bottom ;
+}
+.right-site h3{
+    font-family: "Oswald", sans-serif;
+    color: rgb(249, 2, 2);
+}
+.right-site h2{
+    font-family: "New Amsterdam", sans-serif;
+}
+.checbox ul {
+    list-style-type: none;
+    margin-left: -40px;
+    color: rgb(18, 11, 11);
+    
+   
+}
+body{
+    margin: 90px;
+}
+
+
+.checbox ul li span{
+    color: red;
+    margin-bottom: 10px;
+}
+
